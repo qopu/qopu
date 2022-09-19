@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/RUMok1s.png" align="right"/>
+<img align='right' src="https://i.imgur.com/RUMok1s.png"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&pause=1000&color=EAC0EB&width=435&lines=Another+random+github+profile...;qopu+(noname))](https://git.io/typing-svg)
 
@@ -30,7 +30,7 @@
 
 ### My Dev Stats:
 <img align='left' width=47% src="https://github-readme-stats.vercel.app/api?username=qopu&count_private=true&show_icons=true&include_all_commits=true;&theme=omni" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=qopu&theme=omni">
+<img align='left' width=47% src="https://github-readme-stats.vercel.app/api/wakatime?username=qopu&theme=omni">
 
 
 
