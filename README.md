@@ -1,4 +1,4 @@
-<img align='right' src="https://i.imgur.com/RUMok1s.png"/>
+<img src="https://i.imgur.com/RUMok1s.png" align="right"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&pause=1000&color=EAC0EB&width=435&lines=Another+random+github+profile...;qopu+(noname))](https://git.io/typing-svg)
 
